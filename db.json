@@ -1,0 +1,28 @@
+{
+  "report": [
+    {
+      "id": "uuid1",
+      "source": "Salary",
+      "amount": 7500,
+      "created_at": "23/8/2023",
+      "updated_at": "23/8/2023",
+      "type": "income"
+    },
+    {
+      "id": "uuid2",
+      "source": "Youtube",
+      "amount": 1000,
+      "created_at": "23/8/2023",
+      "updated_at": "23/8/2023",
+      "type": "income"
+    },
+    {
+      "id": "uuid3",
+      "source": "Food",
+      "amount": 2500,
+      "created_at": "23/8/2023",
+      "updated_at": "23/8/2023",
+      "type": "expense"
+    }
+  ]
+}
